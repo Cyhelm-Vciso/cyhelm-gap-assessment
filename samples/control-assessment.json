@@ -1,0 +1,12 @@
+[
+  {
+    "control_id": "A.5.9",
+    "title": "Inventory of information and other associated assets",
+    "status": "partial",
+    "evidence": ["asset-inventory-export.csv"],
+    "business_impact": 5,
+    "effort": 2,
+    "owner": "IT Operations"
+  }
+]
+
